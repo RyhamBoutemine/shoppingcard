@@ -7,7 +7,7 @@ var prixP = document.querySelector(".prixPanier");
 // console.log(qtPlus);
 // console.log(qtMoins);
 // console.log(qt);
-// console.log(prixP);
+ console.log(prixP);
 for(let i=0; i<qtPlus.length;i++){
     qtPlus[i].addEventListener("click", function(){ 
         let q = parseInt(qt[i].innerHTML); 
