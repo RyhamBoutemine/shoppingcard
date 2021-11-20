@@ -1,0 +1,87 @@
+.nav{
+    font-family: 'Open Sans', sans-serif;
+}
+.nav h2{
+    margin-left: 10%;
+    
+}
+
+
+.flex{
+    
+    justify-content:space-between;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 5%;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.r1{
+    display: flex;
+    justify-content:space-between;
+    
+}   
+.r2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    
+}
+.r3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    
+}
+
+.article1{
+    height: 30%;
+    width: 15%;
+}
+
+.article2{
+    height: 30%;
+    width: 15%;
+    
+}
+
+.article3{
+    height: 30%;
+    width: 15%;
+    
+}
+
+.svg-icon3{
+    height: 30px;
+}
+.svg-icon4{
+    height: 30px;
+}
+
+.svg-icon1{
+    
+    width: 3%;
+}
+.svg-icon2{
+    width: 30%;
+}
+
+
+.r3 h2{
+    color: gray;
+}
+.r1 h2{
+    color: gray;
+}
+.r2 h2{
+    color: gray;
+}
+.plusmoins{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+.plusmoins h3{
+    font-style:bold ;
+
+}
